@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Harjot Singh (@Harjot-15)
 
-![Profile Banner](https://via.placeholder.com/800x200?text=Welcome+to+Harjot's+GitHub)
+<img src="https://github.com/Harjot-15/Harjot-15/blob/127e4c7677821dd76607b2df7dfb45789474ff75/Harjot%20.png" alt="Profile Banner" width="200">
 
 ## 👀 Interests
 - **Learning new technologies**: I am always eager to explore the latest advancements in tech.
@@ -28,7 +28,7 @@
 He/Him
 
 ## ⚡ Fun Fact
-I passed 10th grade with the highest marks in my area schools and I enjoy writing poetry in my free time. Additionally, I find strength in my faith and identify as a 'Sikh Learner' with the name 'Sikh Beperwah' meaning 'Learner Fearless.'
+I played as a captain in football team on inter state level and I enjoy writing poetry in my free time. Additionally, I find strength in my faith and identify as a 'Sikh Learner' with the name 'Sikh Beperwah' meaning 'Learner Fearless.'
 
 ## 📂 Current Projects and Goals
 - **CCentreX**: A System Utility Tool
