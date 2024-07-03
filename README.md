@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Harjot Singh (@Harjot-15)
 
-<img src="https://github.com/Harjot-15/Harjot-15/blob/127e4c7677821dd76607b2df7dfb45789474ff75/Harjot%20.png" alt="Profile Banner" width="200">
+<img src="https://github.com/Harjot-15/Harjot-15/blob/0eeb550a29d0b980c6f701d1a51a1fbde999cb33/Beperwah%20.png" alt="Profile Banner" width="200">
 
 ## 👀 Interests
 - **Learning new technologies**: I am always eager to explore the latest advancements in tech.
