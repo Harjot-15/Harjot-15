@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Harjot Singh (@Harjot-15)
+# 👋 Hi, I’m Harjot Singh <a href="https://sikhbeparwah.engineer/Harjot-s-Portfolio/" target="_blank">@Harjot-15</a>
 
 <img src="https://github.com/Harjot-15/Harjot-15/blob/0eeb550a29d0b980c6f701d1a51a1fbde999cb33/Beperwah%20.png" alt="Profile Banner" width="200">
 
