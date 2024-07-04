@@ -31,7 +31,7 @@ He/Him
 I played as a captain in football team on inter state level and I enjoy writing poetry in my free time. Additionally, I find strength in my faith and identify as a 'Sikh Learner' with the name 'Sikh Beperwah' meaning 'Learner Fearless.'
 
 ## 📂 Current Projects and Goals
-- **<a href="https://github.com/Harjot-15/CCenterX" target="_blank">CCentreX </a>**: A System Utility Tool
+- **<a href="https://github.com/Harjot-15/CCenterX" target="_blank">CCentreX</a>** : A System Utility Tool
 - **Multi Explorer**: Tool for renaming, creating, and labeling multiple files and folders simultaneously.
 - **Student Blog Website**: Developing a blog for a General Business student, Rupinder Singh.
 
