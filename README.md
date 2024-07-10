@@ -39,5 +39,3 @@ I played as a captain in football team on inter state level and I enjoy writing 
 - **Programming Languages**: HTML, CSS, JavaScript, Java, Python, PHP
 - **Frameworks and Libraries**: React, Angular, Vue, Electron, PyQt6, JavaFX
 - **Tools**: Visual Studio Code, NodeJS, MongoDB Cloud Atlas, Postman API Platform, MongoDB Compass, Bootstrap
-
-![Divider](https://via.placeholder.com/800x50?text=★+★+★)
